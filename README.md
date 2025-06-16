@@ -43,13 +43,19 @@ Given the nature of "processor design" and "simulation," the following technolog
 
 Hardware Description Languages (HDLs):
 Verilog: Widely used for designing and simulating digital circuits, including processors.
+
 VHDL: Another popular HDL for similar purposes.
+
 Simulation Tools:
 ModelSim/Questasim: Popular commercial simulators for Verilog/VHDL.
+
 Vivado/Quartus: Integrated development environments (IDEs) from Xilinx and Intel (Altera) respectively, which include simulation capabilities.
+
 Custom Simulation Framework: It's possible to write a simulation in a general-purpose programming language (e.g., Python, C++, Java) to model the pipeline's behavior, especially for higher-level functional simulation.
+
 Design and Analysis Tools:
 Logic Gates and Digital Design Principles: Fundamental knowledge required for designing the processor components.
 Computer Architecture Concepts: Understanding of pipelining, hazards, instruction sets, etc.
+
 Version Control:
 Git: For managing source code and design files.
